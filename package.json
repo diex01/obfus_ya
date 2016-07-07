@@ -1,0 +1,27 @@
+{
+  "name": "obfus_ya",
+  "version": "1.0.0",
+  "description": "obfuscate css classes \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C names classes",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diex01/obfus_ya.git"
+  },
+  "keywords": [
+    "obfucate",
+    "css",
+    "node.js",
+    "npm"
+  ],
+  "author": "Diex01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diex01/obfus_ya/issues"
+  },
+  "homepage": "https://github.com/diex01/obfus_ya#readme"
+}
